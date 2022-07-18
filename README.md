@@ -2,23 +2,10 @@
 Implementazione servizi noleggio film via HTTP.
 
 ## Programmi utilizzati
-Golang
-MySQL
-PostMan
-GitHub
-
-## References:
-
-#### Web Site Documentation: 
-https://go.dev
-
-#### Tour of Go: 
-https://go.dev/tour/welcome/1
-
-#### Books:
-
-https://codermine.slack.com/archives/CH3DQV3GW/p1642095716009300
-
+1. Golang
+2. MySQL
+3. PostMan
+4. GitHub
 
 ## Program objectives
 
@@ -33,3 +20,15 @@ Creare un microservizio con le seguenti caratteristiche:
 7. Esposizione della API POST GET DELETE: le POST / GET devono ricevere un JSON e ritornare un JSON
 8. Gestire le richieste ed eventuali messaggi di errore
 9. Creazione dei Test
+
+## References:
+
+#### Web Site Documentation: 
+https://go.dev
+
+#### Tour of Go: 
+https://go.dev/tour/welcome/1
+
+#### Books:
+
+https://codermine.slack.com/archives/CH3DQV3GW/p1642095716009300
