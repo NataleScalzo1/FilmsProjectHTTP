@@ -1,4 +1,5 @@
-# Golang Course
+## Microservizi Natale Scalzo:
+Implementazione servizi noleggio film via HTTP.
 
 ## References:
 
@@ -27,8 +28,3 @@ Creare un microservizio con le seguenti caratteristiche:
 7. Esposizione della API POST GET DELETE: le POST / GET devono ricevere un JSON e ritornare un JSON
 8. Gestire le richieste ed eventuali messaggi di errore
 9. Creazione dei Test
-
-## Microservizi Natale Scalzo:
-Implementazione servizi noleggio film.
-
-
