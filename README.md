@@ -1,8 +1,13 @@
 ## Microservizi Natale Scalzo:
 Implementazione servizi noleggio film via HTTP.
 
-## References:
+## Programmi utilizzati
+Golang
+MySQL
+PostMan
+GitHub
 
+## References:
 
 #### Web Site Documentation: 
 https://go.dev
@@ -15,7 +20,7 @@ https://go.dev/tour/welcome/1
 https://codermine.slack.com/archives/CH3DQV3GW/p1642095716009300
 
 
-## Course objectives
+## Program objectives
 
 Creare un microservizio con le seguenti caratteristiche:
 
