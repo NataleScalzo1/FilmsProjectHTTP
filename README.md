@@ -31,4 +31,4 @@ https://go.dev/tour/welcome/1
 
 #### Books:
 
-https://codermine.slack.com/archives/CH3DQV3GW/p1642095716009300
+https://lets-go.alexedwards.net/
